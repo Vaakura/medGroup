@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+#logo {
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+}
+#brand {
+    background-color: orange;
+    display: inline-block;
+}
+.nav-links {
+    background-color: rgb(9, 167, 219);
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+#intro-txt {
+    text-align: justify;
+}
+#sliding-banners {
+    background-color: orange;
+}
+.main-btn {
+    display: inline-block;
+}
+ul li {
+    list-style-type: none;
+    text-align: left;
+}
